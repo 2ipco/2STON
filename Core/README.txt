@@ -6,3 +6,9 @@ History for version 0.906(2017.12.07)
 2. Fix some hole punching bugs.
 3. Move session server's location from Goole to AWS.
 4. Add a password checking code into 2stoncam UI.
+
+Notice: Please uninstall the preinstalled apk at first before installing this version.
+If you don't follow this step, this apk will not be run normally because of an internal db file(messed db file).
+
+Best Regards,
+2STON Core Team.
