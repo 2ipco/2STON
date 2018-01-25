@@ -2,9 +2,9 @@
 
 History for version 0.908(2018.01.25)
 --------------------------------------
-1. Fix some bugs.
-2. Apply 2ston hole punching method
-   (hole punching between symnat and prcn supported)
+1. Fix some small bugs.
+2. Apply the 2ston hole punching method.
+   -> hole punching between symmetric nat and every cone nat is possible ;)
 
 
 History for version 0.906(2017.12.07)
