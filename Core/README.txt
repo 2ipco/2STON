@@ -1,5 +1,12 @@
 2IP 2STON Core Project
 
+History for version 0.908(2018.01.25)
+--------------------------------------
+2stoncam_gsocket_v0.908_20180125_aws.apk version upload
+1. Fix some bugs.
+2. Upgrade hole punching tech.
+
+
 History for version 0.906(2017.12.07)
 --------------------------------------
 1. Fix a problem that doesn't automatically reconnect to session server while reloading it.
