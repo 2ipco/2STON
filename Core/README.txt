@@ -2,9 +2,9 @@
 
 History for version 0.908(2018.01.25)
 --------------------------------------
-2stoncam_gsocket_v0.908_20180125_aws.apk version upload
 1. Fix some bugs.
-2. Upgrade hole punching tech.
+2. Apply 2ston hole punching method
+   (hole punching between symnat and prcn supported)
 
 
 History for version 0.906(2017.12.07)
