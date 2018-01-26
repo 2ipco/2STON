@@ -1,6 +1,6 @@
 2IP 2STON Core Project
 
-History for version 0.908(2018.01.25)
+History for version 0.909(2018.01.26)
 --------------------------------------
 1. Fix some small bugs.
 2. Apply the 2ston hole punching method.
