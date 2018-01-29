@@ -1,5 +1,6 @@
 2IP 2STON Core Project
 
+<<<<<<< HEAD
 History for version 0.910(2018.01.29)
 --------------------------------------
 1. Fix some small bugs.
