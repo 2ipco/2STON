@@ -1,4 +1,4 @@
-2IP 2STON Core Project
+2IP 2STON Core Project(P2P Security Solution)
 
 History for version 0.910(2018.01.29)
 --------------------------------------
