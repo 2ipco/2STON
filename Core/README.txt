@@ -2,16 +2,10 @@
 
 History for version 0.910(2018.01.29)
 --------------------------------------
-1. Improve 2ston hole punching routines.
+1. Apply the 2ston hole punching method.
+   -> hole punching between symmetric nat and every cone nat is possible ;)
 2. Fix a bug that is related to socket close(STDIN) 
 3. Fix some minor bugs.
-
-
-History for version 0.908(2018.01.25)
---------------------------------------
-1. Fix some small bugs.
-2. Apply the 2ston hole punching method.
-   -> hole punching between symmetric nat and every cone nat is possible ;)
 
 
 History for version 0.906(2017.12.07)
