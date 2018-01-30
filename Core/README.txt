@@ -2,8 +2,9 @@
 
 History for version 0.911(2018.01.30)
 -------------------------------------
-1. Fix hole punching method and Recv logic.
-2. Add and change some log.
+1. Improve the 2ston hole punching method.
+2. Fix some log messages.
+
 
 History for version 0.910(2018.01.29)
 --------------------------------------
