@@ -1,15 +1,11 @@
 2IP 2STON Core Project
 
-<<<<<<< HEAD
 History for version 0.910(2018.01.29)
 --------------------------------------
-1. Fix some small bugs.
-2. Add Nat config mode.
-3. Fix stdin socket close bug
+1. Improve 2ston hole punching routines.
+2. Fix a bug that is related to socket close(STDIN) 
+3. Fix some minor bugs.
 
-History for version 0.909(2018.01.26)
---------------------------------------
-1. Fix some small bugs.
 
 History for version 0.908(2018.01.25)
 --------------------------------------
