@@ -1,21 +1,33 @@
 2IP 2STON Core Project(P2P Security Solution)
 
-History for version 0.911(2018.01.30)
--------------------------------------
+<network configuration>
+2ston_cam_rpi3_pkg <= P2P security communication => 2stoncam_apk
+
+
+History for 2ston_cam_rpi3_pkg version 20180131_134518
+-------------------------------------------------------
+1. Apply the 2ston hole punching method.
+   -> hole punching between symmetric nat and every cone nat is possible ;)
+2. Fix some log messages and minor bugs.
+3. Add install/uninstall scripts.
+
+
+History for 2stoncam_apk version 0.911(2018.01.30)
+---------------------------------------------------
 1. Improve the 2ston hole punching method.
 2. Fix some log messages.
 
 
-History for version 0.910(2018.01.29)
---------------------------------------
+History for 2stoncam_apk version 0.910(2018.01.29)
+---------------------------------------------------
 1. Apply the 2ston hole punching method.
    -> hole punching between symmetric nat and every cone nat is possible ;)
 2. Fix a bug that is related to socket close(STDIN) 
 3. Fix some minor bugs.
 
 
-History for version 0.906(2017.12.07)
---------------------------------------
+History for 2stoncam_apk version 0.906(2017.12.07)
+---------------------------------------------------
 1. Fix a problem that doesn't automatically reconnect to session server while reloading it.
 2. Fix some hole punching bugs.
 3. Move session server's location from Google to AWS.
