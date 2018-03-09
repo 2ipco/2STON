@@ -11,6 +11,13 @@ History for 2ston_cam_rpi3_pkg version 20180131_134518
 2. Fix some log messages and minor bugs.
 3. Add install/uninstall scripts.
 
+History for 2stoncam_apk version 0.917(2018.03.09)
+--------------------------------------------------
+1. Fix some small activity bugs.
+
+History for 2stoncam_apk version 0.916(2018.02.02)
+--------------------------------------------------
+1. Fix some core issue.
 
 History for 2stoncam_apk version 0.911(2018.01.30)
 ---------------------------------------------------
