@@ -11,6 +11,14 @@ History for 2ston_cam_rpi3_pkg version 20180131_134518
 2. Fix some log messages and minor bugs.
 3. Add install/uninstall scripts.
 
+History for 2stoncam_apk version 0.918(2018.04.05)
+--------------------------------------------------
+1. Add Napi
+- Remove many goto func.
+- Seperate channel_open & hole punch logic.
+- Change client & channel structure.
+2. Change JNI code.
+
 History for 2stoncam_apk version 0.918(2018.03.16)
 --------------------------------------------------
 1. Add hole punch check.
