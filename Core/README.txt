@@ -2,17 +2,6 @@
 (We Secure the Internet of Things with 2STON Core)
 ===================================================
 
-
-<2STON IP Camera Raspberry Pi>
-==============================
-
-
-
-
-
-<2STON IP Camera Android App>
-==============================
-
 History for 2stoncam_apk version 0.918(2018.04.05)
 --------------------------------------------------
 1. Add NAPI
@@ -21,19 +10,23 @@ History for 2stoncam_apk version 0.918(2018.04.05)
    -> Change client & channel structure.
 2. Change JNI code.
 
+
 History for 2stoncam_apk version 0.918(2018.03.16)
 --------------------------------------------------
 1. Add hole punch check.
 2. Add son cancel function.
+
 
 History for 2stoncam_apk version 0.917(2018.03.09)
 --------------------------------------------------
 1. Fix some small activity bugs.
 2. Remove some trash source.
 
+
 History for 2stoncam_apk version 0.916(2018.02.02)
 --------------------------------------------------
 1. Fix some core issue.
+
 
 History for 2stoncam_apk version 0.911(2018.01.30)
 ---------------------------------------------------
@@ -59,6 +52,6 @@ History for 2stoncam_apk version 0.906(2017.12.07)
 Notice: Please uninstall the preinstalled apk at first before installing this version.
 If you don't follow this step, this apk will not be run normally because of an internal db file(messed db file).
 
-
+====================
 Best Regards,
 2IP 2STON Core Team.
