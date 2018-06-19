@@ -1,22 +1,24 @@
-2IP 2STON Core Project(P2P Security Solution)
+   2IP 2STON Core Project(P2P Security Solution)
+(We Secure the Internet of Things with 2STON Core)
+===================================================
 
-<network configuration>
-2ston_cam_rpi3_pkg <= P2P security communication => 2stoncam_apk
+
+<2STON IP Camera Raspberry Pi>
+==============================
 
 
-History for 2ston_cam_rpi3_pkg version 20180131_134518
--------------------------------------------------------
-1. Apply the 2ston hole punching method.
-   -> hole punching between symmetric nat and every cone nat is possible ;)
-2. Fix some log messages and minor bugs.
-3. Add install/uninstall scripts.
+
+
+
+<2STON IP Camera Android App>
+==============================
 
 History for 2stoncam_apk version 0.918(2018.04.05)
 --------------------------------------------------
-1. Add Napi
-- Remove many goto func.
-- Seperate channel_open & hole punch logic.
-- Change client & channel structure.
+1. Add NAPI
+   -> Remove many goto func.
+   -> Separate channel_open & hole punch logic.
+   -> Change client & channel structure.
 2. Change JNI code.
 
 History for 2stoncam_apk version 0.918(2018.03.16)
@@ -56,6 +58,7 @@ History for 2stoncam_apk version 0.906(2017.12.07)
 
 Notice: Please uninstall the preinstalled apk at first before installing this version.
 If you don't follow this step, this apk will not be run normally because of an internal db file(messed db file).
+
 
 Best Regards,
 2IP 2STON Core Team.
