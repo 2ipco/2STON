@@ -2,13 +2,12 @@
 (We Secure the Internet of Things with 2STON Core)
 ===================================================
 
-History for 2stoncam_apk version 0.918(2018.04.05)
+History for 2stoncam_apk version 0.930(2018.06.19)
 --------------------------------------------------
-1. Add NAPI
-   -> Remove many goto func.
-   -> Separate channel_open & hole punch logic.
-   -> Change client & channel structure.
-2. Change JNI code.
+1. 2STON Core 2.0 codes applied.
+   -> Apply NAPI(new API) codes
+   -> Make a JNI layer slimm
+   -> TLS/PLS protocol applied and PLS protocol revised for optimal communication.
 
 
 History for 2stoncam_apk version 0.918(2018.03.16)
