@@ -2,6 +2,12 @@
 (We Secure the Internet of Things with 2STON Core)
 ===================================================
 
+History for 2stoncam_apk version 0.990(2018.06.29)
+-------------------------------------------------
+1. Update New UI (Recycler View, SurfaceView)
+2. Add NavigationBar
+3. Fix Bugs
+
 History for 2stoncam_apk version 0.930(2018.06.19)
 --------------------------------------------------
 1. 2STON Core 2.0 codes applied.
